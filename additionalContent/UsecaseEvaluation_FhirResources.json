@@ -1,0 +1,1180 @@
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Polytrauma"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "131148009",
+      "display": "Bleeding"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "410204009",
+      "display": "Oxygen therapy management"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Oxygen saturation:MFr:Pt:Bld:Qn"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 80.0,
+    "unit": "Sp02",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Glasgow Coma Scale"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 7.0,
+    "unit": "Sp02",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Breaths:NRat:Pt:Respiratory system:Qn"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 30.0,
+    "unit": "bpm",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://loinc.org",
+      "code": "81330-3",
+      "display": "Thoughts on intubation:Find:Pt:^Patient:Nar:Reported"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Blood pressure systolic & diastolic:-:Pt:Arterial system:-"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 120.0,
+    "unit": "mmHg",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "127295002",
+      "display": "Traumatic brain injury"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "82449006",
+      "display": "Peripheral intravenous catheter"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "no"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "299953003",
+      "display": "Finding of pain tolerance"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "6942003",
+      "display": "Level of consciousness"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "no"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "76948002",
+      "display": "Severe pain"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "1172399009",
+      "display": "Numeric rating scale score"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 7.0,
+    "unit": "mmHg",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "428346000",
+      "display": "Pain relief by medication"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "257884004",
+      "display": "Immobilization - action"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://loinc.org",
+      "code": "85847-2",
+      "display": "Care team information:Find:Pt:^Patient:Doc"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "37125009",
+      "display": "Dilated pupil"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "10947000",
+      "display": "Synergist muscle action"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "60629006",
+      "display": "Synergism testing"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "262560006",
+      "display": "Penetrating wound"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "25540007",
+      "display": "Tooth loss"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "715542009",
+      "display": "Transportation by emergency ambulance"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 20.0,
+    "unit": "mmHg",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Heart rate:NRat:Pt:XXX:Qn"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 181.0,
+    "unit": "bpm",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Body temperature:Temp:Pt:^Patient:Qn"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 30.0,
+    "unit": "°C",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://loinc.org",
+      "code": "98909-5",
+      "display": "Shock index Calculated"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 0.5,
+    "unit": "°C",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "429482004",
+      "display": "Fall from high place"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 3.0,
+    "unit": "m",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "709066006",
+      "display": "Motor vehicle accident with ejection of person from vehicle"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "131148009",
+      "display": "Bleeding"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Capnography"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 40.0,
+    "unit": "etCO2",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://loinc.org",
+      "code": "67536-3",
+      "display": "Neurological assessment Nervous system NEMSIS"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "schlechter"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://loinc.org",
+      "code": "28233-5",
+      "display": "Trauma risk"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Polytrauma"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "131148009",
+      "display": "Bleeding"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "410204009",
+      "display": "Oxygen therapy management"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Oxygen saturation:MFr:Pt:Bld:Qn"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 80.0,
+    "unit": "Sp02",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Glasgow Coma Scale"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 7.0,
+    "unit": "Sp02",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Breaths:NRat:Pt:Respiratory system:Qn"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 30.0,
+    "unit": "bpm",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://loinc.org",
+      "code": "81330-3",
+      "display": "Thoughts on intubation:Find:Pt:^Patient:Nar:Reported"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Blood pressure systolic & diastolic:-:Pt:Arterial system:-"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 120.0,
+    "unit": "mmHg",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "127295002",
+      "display": "Traumatic brain injury"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "82449006",
+      "display": "Peripheral intravenous catheter"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "no"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "299953003",
+      "display": "Finding of pain tolerance"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "6942003",
+      "display": "Level of consciousness"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "no"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "76948002",
+      "display": "Severe pain"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "1172399009",
+      "display": "Numeric rating scale score"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 7.0,
+    "unit": "mmHg",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "428346000",
+      "display": "Pain relief by medication"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "257884004",
+      "display": "Immobilization - action"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://loinc.org",
+      "code": "85847-2",
+      "display": "Care team information:Find:Pt:^Patient:Doc"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "37125009",
+      "display": "Dilated pupil"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "10947000",
+      "display": "Synergist muscle action"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "60629006",
+      "display": "Synergism testing"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "262560006",
+      "display": "Penetrating wound"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "25540007",
+      "display": "Tooth loss"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "715542009",
+      "display": "Transportation by emergency ambulance"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 20.0,
+    "unit": "mmHg",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Heart rate:NRat:Pt:XXX:Qn"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 181.0,
+    "unit": "bpm",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Body temperature:Temp:Pt:^Patient:Qn"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 30.0,
+    "unit": "°C",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://loinc.org",
+      "code": "98909-5",
+      "display": "Shock index Calculated"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 0.5,
+    "unit": "°C",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "429482004",
+      "display": "Fall from high place"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 3.0,
+    "unit": "m",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "709066006",
+      "display": "Motor vehicle accident with ejection of person from vehicle"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "code": "131148009",
+      "display": "Bleeding"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://snomed.info/sct",
+      "display": "Capnography"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueQuantity": {
+    "value": 40.0,
+    "unit": "etCO2",
+    "system": "http://unitsofmeasure.org"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://loinc.org",
+      "code": "67536-3",
+      "display": "Neurological assessment Nervous system NEMSIS"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "schlechter"
+  }
+}
+{
+  "resourceType": "Observation",
+  "status": "final",
+  "code": {
+    "coding": [ {
+      "system": "http://loinc.org",
+      "code": "28233-5",
+      "display": "Trauma risk"
+    } ]
+  },
+  "subject": {
+    "reference": "Patient/46543341"
+  },
+  "effectiveDateTime": "2024-12-24",
+  "valueCodeableConcept": {
+    "text": "yes"
+  }
+}
